@@ -1,1 +1,54 @@
+.body { padding-top: 70px; }
+.navbar {background-color:rgb(20, 169, 228);
+} 
+.navbar-brand{color:white;}
 .jumbotron{background-image: url('p3.jpg')}
+.item{height:470px}
+.btn-group{text-align:center}
+.row {
+	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 540;
+	line-height: 
+} 
+h1 {
+	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 550;
+	line-height:
+}
+#sit{
+    border-radius: 25px;
+    background: url('sit.jpg');
+    background-position: left top;
+    background-repeat: repeat;
+    padding: 20px; 
+    width: 400px;
+    height: 413px; }
+#title {
+	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+	font-size: 50px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 550;
+    color: white;
+     
+}
+#ww{
+	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+	font-size: 30px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 550;
+    color: white;
+  
+}
+#head{  padding-left: 0px;
+    padding-top: 0px;
+    padding-bottom: 110px;}
+.nb-footer{border-style:none;
+background-color:rgb(20, 169, 228)}
